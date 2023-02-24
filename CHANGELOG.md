@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.3.1](https://www.github.com/jpfeuffer/bioconda-utils/compare/v1.3.0...v1.3.1) (2023-02-24)
+
+
+### Documentation
+
+* update bulk docs to include BioC updates ([#828](https://www.github.com/jpfeuffer/bioconda-utils/issues/828)) ([1301a6c](https://www.github.com/jpfeuffer/bioconda-utils/commit/1301a6c933de8e5db9cdaaf634efb968e3f69175))
+
 ## [1.3.0](https://www.github.com/bioconda/bioconda-utils/compare/v1.2.0...v1.3.0) (2022-11-10)
 
 
